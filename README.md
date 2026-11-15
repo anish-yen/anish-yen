@@ -10,12 +10,51 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" />
+<p><strong>Languages</strong></p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" alt="Python" title="Python" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="34" height="34" alt="Java" title="Java" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" title="JavaScript" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />
+</p>
+
+<p><sub>Python · Java · JavaScript · TypeScript · SQL</sub></p>
+
+<p><strong>Web & APIs</strong></p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34" alt="React" title="React" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="34" height="34" alt="Next.js" title="Next.js" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="34" height="34" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="34" height="34" alt="Node.js" title="Node.js" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="34" height="34" alt="Express" title="Express" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="34" height="34" alt="FastAPI" title="FastAPI" />
+</p>
+
+<p><sub>React · Next.js · Tailwind CSS · Node.js · Express · FastAPI</sub></p>
+
+<p><strong>Machine learning</strong></p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="34" height="34" alt="PyTorch" title="PyTorch" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" alt="scikit-learn" title="scikit-learn" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas" title="Pandas" />
+</p>
+
+<p><sub>PyTorch · scikit-learn · Pandas</sub></p>
+
+<p><strong>Data & tools</strong></p>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="34" height="34" alt="Supabase" title="Supabase" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="34" height="34" alt="Redis" title="Redis" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="34" height="34" alt="Docker" title="Docker" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />
+</p>
+
+<p><sub>PostgreSQL · Supabase · Redis · Docker · Git</sub></p>
 
 </div>
 
